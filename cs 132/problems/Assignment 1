@@ -12,7 +12,7 @@ Asks the user the following question and wait for a number answer.
 "What size word do you want?"
 Make sure that they input a number between 1 and 30.
 Use an input validation loop.
-Open up the file : WordList.txtPreview the document 
+Open up the file : WordList.txt(This txt is in the separate doc)
 This file contains a large number (> 150000) of single English words.
 Count how many words there are of that length and print it out.
 In order to find the size of a string
