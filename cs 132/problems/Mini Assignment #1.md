@@ -1,6 +1,6 @@
 ## Using what you have learned about the cString style data types, download and complete the code for the program below.
 
-[InClassAssignment1.cpp](cs 132/problems/InClassAssignment1.cpp)
+[InClassAssignment1.cpp](https://github.com/spizzkid/cplusplusPractice/blob/master/cs%20132/problems/InClassAssignment1.cpp)
 
  
 
