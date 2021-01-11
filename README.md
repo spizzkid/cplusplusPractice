@@ -1,2 +1,2 @@
 # cplusplusPractice
-Daily practice for c++
+Daily practice for c++.
