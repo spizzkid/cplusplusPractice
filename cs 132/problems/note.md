@@ -1,2 +1,3 @@
 ## This folder cotains practice problems.
-- If the titile of a file do not cotains "assignment", its a support file for certain assigment.
+- File(s) above is supportive file for the assignment(Updating):
+  - [WordList.txt](https://github.com/spizzkid/cplusplusPractice/blob/master/cs%20132/problems/WordList.txt)
