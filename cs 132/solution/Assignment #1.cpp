@@ -92,19 +92,20 @@ int main() {
 
     inputFile.open("WordList.txt");
 
-    string largestWord;
+    string largestWord = "";
 
     while (inputFile >> word)
     {
-        int largest = 0;
         
-        if (word.length() > largest)
-            largestWord = word;
+        if (word.length() > largestWord.length())
+        {
+            largestWord = word;                     // delete (int largest), rewrite if statement in a clearer way
+        }
     }
 
     cout << "The largest word in the list is " << largestWord << endl;
     
-    
+    inputFile.close();
 
     return 0;
 }
