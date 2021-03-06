@@ -17,9 +17,9 @@ The program should then create an array of 5 of those structs with the following
 
 Then create a function that will take an individual Player struct and output the data for the player in an organized way.   Something like:
 ```diff
-+ Player Name :  Franz 
-+ Number : 12
-+ Number of goals this season : 14
+Player Name :  Franz 
+Number : 12
+Number of goals this season : 14
 ```
 ### Part 4)
 
