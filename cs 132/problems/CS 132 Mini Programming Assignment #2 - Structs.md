@@ -17,22 +17,22 @@ The program should then create an array of 5 of those structs with the following
 
 Then create a function that will take an individual Player struct and output the data for the player in an organized way.   Something like:
 ```diff
-Player Name :  Franz 
-Number : 12
-Number of goals this season : 14
++ Player Name :  Franz 
++ Number : 12
++ Number of goals this season : 14
 ```
 ### Part 4)
 
 Then create a function that accepts the array of structs, and finds/returns the sum of the for the season and the main program prints it out.
-
-- The number of goals for the team is : 102
-
+```diff
++ The number of goals for the team is : 102
+```
 Summary)
 
 You main program should
 
-Create the struct
-Create the array of structs
-Fill the array
-Use a loop to print all the members of the team using the first created function.
-Print out the total number of goals using the second created function.
+- Create the struct
+- Create the array of structs
+- Fill the array
+- Use a loop to print all the members of the team using the first created function.
+- Print out the total number of goals using the second created function.
